@@ -4,4 +4,4 @@
 
 ## About
 Weather app made using HTML, CSS, JavaScript and OpenWeatherMap API.
-Visit the website [here](https://hp-weather-app.netlify.app)
+Visit the website [here](https://hp-weather-app.netlify.app).
